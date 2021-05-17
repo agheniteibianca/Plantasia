@@ -1,0 +1,6 @@
+opencv-python
+pandas
+easygui
+image
+mahotas
+sklearn
